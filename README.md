@@ -20,8 +20,10 @@ Role Variables
 --------------
 
 `dns_server_1`            desired DNS server 1 (ex: 8.8.8.8)
+
 `dns_server_2`            desired DNS server 2 (ex: 8.8.4.4)
-`lan_subnet_slash_cidr`   desired LAN subnet (ex: 172.16.1.1/24)
+
+`lan_subnet_slash_cidr`   desired LAN subnet (ex: 172.16.1.0/24)
 
 Dependencies
 ------------
