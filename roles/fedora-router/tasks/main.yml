@@ -32,8 +32,7 @@
     mode: 0755
     owner: root
     group: root
-
-
+    
 - name: "install eth0.network file"
   copy:
     src: etc/systemd/network/eth0.network
