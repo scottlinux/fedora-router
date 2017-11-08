@@ -7,7 +7,7 @@ This playbook provides a simple home router using Fedora Linux
 
 * IPv4 only at the moment
 * eth0 is set to receive DHCP from one's ISP
-* static LAN assignments can be set in /etc/dnsmasq.conf (future feature for vars)
+* static LAN dhcp assignments can be set in /etc/dnsmasq.conf (future feature for vars)
 
 Requirements
 ------------
