@@ -1,0 +1,7 @@
+---
+# file: local.yml
+
+- hosts: all
+  become: True
+  roles:
+- roles/fedora-router

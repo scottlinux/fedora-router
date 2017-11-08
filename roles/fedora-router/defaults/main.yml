@@ -1,0 +1,6 @@
+---
+# defaults file for fedora-router
+dns_server_1: 8.8.8.8
+dns_server_2: 8.8.4.4
+lan_subnet_slash_cidr: 172.16.1.0/24
+

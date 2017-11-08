@@ -1,0 +1,8 @@
+[Match]
+Name=eth0
+
+[Network]
+DHCP=ipv4
+DNS={{ dns_server_1 }}
+DNS={{ dns_server_2 }}
+IPForward=yes

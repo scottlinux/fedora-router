@@ -1,0 +1,6 @@
+[Match]
+Name=eth1
+
+[Network]
+Address= {{ lan_subnet_slash_cidr }}
+IPForward=yes
